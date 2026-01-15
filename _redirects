@@ -1,0 +1,4 @@
+# Netlify Redirects Configuration
+# Redirect /quiz to Air India Bloom In Green Quiz page
+
+/quiz https://agnelvishal.github.io/air-india-bloom-in-green/ 302
